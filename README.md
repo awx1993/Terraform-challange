@@ -15,15 +15,22 @@ A continuación te presento una implementación completa para crear una máquina
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/b5a8ca55-b621-453b-a7cf-d1c5ce13306a" />
 
 2. variables.tf (Definición de variables)
+
+
    <img width="365" alt="image" src="https://github.com/user-attachments/assets/5347850b-5ec4-4fa3-a20c-04389085d42f" />
 
 3  terraform.tfvars (Valores de las variables)
+
+
 <img width="388" alt="image" src="https://github.com/user-attachments/assets/7559ab54-4c7f-4bd2-9bc4-bfb52e0c584d" />
 
 4.4. main.tf (Configuración principal)
+
+
 <img width="310" alt="image" src="https://github.com/user-attachments/assets/a6e87403-605a-474c-94bd-1f285072478b" />
 
 5.outputs.tf (Salidas)
+
 <img width="326" alt="image" src="https://github.com/user-attachments/assets/0c3c23a0-68e1-4add-a4ee-13583f325506" />
 
 # Instrucciones de uso
